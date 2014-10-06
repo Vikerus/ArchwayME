@@ -20,7 +20,7 @@ sec_session_start();
 $manifesto = $_SESSION["slate"];
 $UUser = $_SESSION['username'];
 	//Turnicate the UID in DB
-$conv=mysqli_connect("localhost","phpmate","freeagent7","_aio");
+$conv=mysqli_connect("localhost","phpmate","PASSWORD","USERDB");
 // Check connection
 if (mysqli_connect_errno()) {
   echo "Failed to connect to MySQL: " . mysqli_connect_error();
