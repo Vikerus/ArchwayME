@@ -49,7 +49,7 @@ include_once 'includes/functions.php';
 // Include database connection and functions here.  See 3.1. 
 sec_session_start(); 
 if(login_check($mysqli) == true) {
-	$con=mysqli_connect("localhost","phpmate","freeagent7","_io");
+	$con=mysqli_connect("localhost","phpmate","PASSWORD","LOGINDB");
 //	session_start();   // Add your protected page content here!
 } else { 
 		header('Location: ./login.php');
@@ -176,7 +176,7 @@ if (isset($_COOKIE['poke']) )
 //
 $dbhost = 'localhost';
 $dbuser = 'phpmate';
-$dbpass = 'freeagent7';
+$dbpass = 'USERDB';
 
 $conn = mysql_connect($dbhost, $dbuser, $dbpass);
 
