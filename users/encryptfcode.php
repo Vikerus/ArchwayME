@@ -74,7 +74,7 @@ $textToEncrypt1 = $_SESSION["ffcode"];
 	$safefcode = $ciphertext_base643;
 $UUser = $_SESSION['username'];
 	//Turnicate the UID in DB
-$conv=mysqli_connect("localhost","phpmate","freeagent7","_aio");
+$conv=mysqli_connect("localhost","phpmate","PASSWORD","USERDB");
 // Check connection
 }
 if (mysqli_connect_errno()) {
