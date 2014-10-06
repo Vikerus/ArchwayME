@@ -16,7 +16,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </pre>
 <?php
 
-$conv=mysqli_connect("localhost","phpmate","freeagent7","_aio");
+$conv=mysqli_connect("localhost","phpmate","PASSWORD","USERDB");
 // Check connection
 if (mysqli_connect_errno()) {
   echo "Failed to connect to MySQL: " . mysqli_connect_error();
