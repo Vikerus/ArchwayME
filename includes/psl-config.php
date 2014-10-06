@@ -4,8 +4,8 @@
  */  
 define("HOST", "localhost");     // The host you want to connect to.
 define("USER", "root");    // The database username. 
-define("PASSWORD", "iopkl4567945");    // The database password. 
-define("DATABASE", "_aio");    // The database name.
+define("PASSWORD", "PASSWORD");    // The database password. 
+define("DATABASE", "USERDB");    // The database name.
  
 define("CAN_REGISTER", "any");
 define("DEFAULT_ROLE", "member");
