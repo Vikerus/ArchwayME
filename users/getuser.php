@@ -19,7 +19,7 @@ include_once '../includes/functions.php';
 sec_session_start(); 
 $dbhost = 'localhost';
 $dbuser = 'phpmate';
-$dbpass = 'freeagent7';
+$dbpass = 'PASSWORD';
 
 $conn = mysql_connect($dbhost, $dbuser, $dbpass);
 
