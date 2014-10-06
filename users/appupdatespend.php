@@ -23,7 +23,7 @@ sec_session_start();
 if(login_check($mysqli) == true) {
 $dbhost = 'localhost';
 $dbuser = 'phpmate';
-$dbpass = 'freeagent7';
+$dbpass = 'PASSWORD';
 
 $sender = $_POST['sendto'];
 $amount = $_POST['cmddo'];
