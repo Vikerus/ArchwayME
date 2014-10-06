@@ -68,7 +68,7 @@ if ($rcon->connect())
 $APPtotal = $_SESSION['subapp'];
 $UUser = $_COOKIE['UID'];
 	//Update the APPPurse in DB
-$connn=mysqli_connect("localhost","phpmate","freeagent7","_aio");
+$connn=mysqli_connect("localhost","phpmate","PASSWORD","USERDB");
 // Check connection
 if (mysqli_connect_errno()) {
   echo "Failed to connect to MySQL: " . mysqli_connect_error();
