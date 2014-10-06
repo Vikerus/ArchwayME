@@ -1,0 +1,32 @@
+.opencase { margin-top:1%; margin-center:100%; }
+.opencase p{box-shadow: 0px 0px 2px 2px #333;
+height:80%;
+border-radius:5px;
+box-sizing:border-box;
+-moz-box-sizing:border-box; /* Firefox */
+width:96%;
+border:0px solid 6C9CF2;
+float:center;  
+background-origin:content-box;
+background-image:url();
+text-shadow: -1px 1px #000000;
+
+/* Internet Explorer 10 */
+display:-ms-flexbox;
+-ms-flex-pack:center;
+-ms-flex-align:center;
+
+/* Firefox */
+display:-moz-box;
+-moz-box-pack:center;
+-moz-box-align:center;
+
+/* Safari, Opera, and Chrome */
+display:-webkit-box;
+-webkit-box-pack:center;
+-webkit-box-align:center;
+
+/* W3C */
+display:box;
+box-pack:center;
+box-align:center;}

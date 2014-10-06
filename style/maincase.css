@@ -1,0 +1,24 @@
+.maincase { width:100%;}
+/* CSS Document*/
+/*Define the body element's color*/
+body
+{background: #BF84BF; background-repeat:no-repeat ; background-position:left;;
+}
+/*This section is for links*/
+a:link
+{font-weight:normal; color:Blue;
+}
+a:visited
+{font-weight:normal; color:Purple;
+}
+a:hover
+{font-weight:bold; color: Blue; font-variant:small-caps;
+}
+/*This section is for a paragraph section*/
+p {font-style:italic; font-size:18px;
+}
+gray {color:#505050;
+}
+/*This section is for the image's black border.*/
+img {border-color: #000000; border:thick; border-style:ridge;
+}

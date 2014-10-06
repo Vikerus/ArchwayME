@@ -1,0 +1,2 @@
+.imgbar img{-webkit-border-image:url(border.png) 30 30 round; /* Safari 5 */ -o-border-image:url(border.png) 30 30 round; /* Opera */ border-image:url(border.png) 30 30 round;}
+.imgbar p{text-shadow: 2px 2px #ff0000;}
