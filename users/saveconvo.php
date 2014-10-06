@@ -19,7 +19,7 @@ include_once '../includes/functions.php';
 
 sec_session_start();
 	//Turnicate the UID in DB
-$con=mysqli_connect("localhost","phpmate","freeagent7","_aio");
+$con=mysqli_connect("localhost","phpmate","PASSWORD","USERDB");
 // Check connection
 if (mysqli_connect_errno()) {
   echo "Failed to connect to MySQL: " . mysqli_connect_error();
