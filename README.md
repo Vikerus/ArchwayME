@@ -48,6 +48,11 @@ ToDo
   
   Create functions for encrypting and decrypting within the functions page or called by the functions page.
   
+  Build a simple and effective profile page with fully modular display options such as: RSS feed, Groups, Shout box, Blog space, Avatar, and Image gallery.
+  
+  Create a function for users to define their own profile url tag.
+  
+  Overhaul the css for the entire site to be mobile friendly. Starting with the login/home page.
   
 
 Background
