@@ -10,14 +10,23 @@ Goals
 =========
 
 -Security is the top priority.
+
 -Encryption of all data sets.
+
 -Minimization of collected data.
+
 -Simple messaging.
+
 -Simple image uploading.
+
 -Discrete profile page.
+
 -Flexible and secure bulletin board.
+
 -User friendly interface.
+
 -Scalablity in relation to performance.
+
 -RSS feed for personal user pages.
 
 The Idea and Function
