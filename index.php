@@ -229,7 +229,7 @@ mysql_free_result($result);
 //
 //$dbhost = 'localhost';
 //$dbuser = 'phpmate';
-//$dbpass = 'freeagent7';
+//$dbpass = 'PASSWORD';
 //$conn = mysql_connect($dbhost, $dbuser, $dbpass);
 //if(! $conn )
 //{
