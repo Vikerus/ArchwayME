@@ -82,3 +82,4 @@ Background
 My background: I am self taught in php. This means that methods used in the scripts will be rudimentary and possibly redundant. Much of what is in the original source was created as I learned. 
 
   Facebook is simply too intrusive. While it is a great way to "network" it is quickly becoming a horrible place to be "social." It is my hope that this simple and private system for social interation will become wide spread and trustworthy. 
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UJKF7CZNFMLQW
